@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746984165 source:c:\users\yassi\documents\first project\first project\afze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
